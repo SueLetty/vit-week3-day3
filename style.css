@@ -1,0 +1,14 @@
+#body {
+  display: flex;
+  justify-content: center;
+}
+/* #div1 {
+  border: solid 1px black;
+} */
+/* #div2 {
+
+  background-color: grey;
+} */
+#myList {
+  margin-right: 3em;
+}
